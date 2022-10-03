@@ -28,7 +28,7 @@
       "url": "https://gitlab.com/Robieh/ultrauncanny/uploads/fd9a64699b32a14ba74db4156b12568a/ULTRAUNCANNY.dll"
     },
     {
-      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/PBS.png",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/PBS.png?raw=true",
       "name": "Player Best Save",
       "description": "Shows your PB's of\neach level next to\nthe level statistics",
       "contributors": "radsi",
@@ -55,7 +55,7 @@
       "url": "https://github.com/Temperz87/Ultrakill-Custom-Arms-Proof-Of-Concept/releases/download/v1.3.0/CustomArms.dll"
     },
     {
-      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fakupunch.png",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fakupunch.png?raw=true",
       "name": "FakUPunch",
       "description": "Replaces the punch\nanimation with a\nmiddle finger",
       "contributors": "radsi",
@@ -100,7 +100,7 @@
       "url": "https://github.com/ZedDevStuff/UKMusicReplacement/releases/download/0.7.0/UKMusicReplacement-v0.7.0.zip"
     },
     {
-      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/2s4m.png",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/2s4m.png?raw=true",
       "name": "2Spooky4Me",
       "description": "Configure seasonal\nevents for ULTRAKILL",
       "contributors": "Heckteck, Distrilul_",
@@ -118,7 +118,7 @@
       "url": "https://github.com/ZedDevStuff/Fresh/releases/download/1.0.0/Fresh.dll"
     },
     {
-      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fumoskull.png",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fumoskull.png?raw=true",
       "name": "FumoSkulls",
       "description": "Replaces skulls with\nfumos",
       "contributors": "The-DoomMan",
@@ -127,7 +127,7 @@
       "url": "https://github.com/The-DoomMan/FumoSkulls/releases/download/how-do-put-more-than-1-release-on-1-tag-help-i-hate-git/FumoSkull.dll"
     },
     {
-      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPlushie.png",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPlushie.png?raw=true",
       "name": "SusKull (Plushie)",
       "description": "Replaces skulls\nwith colored amogus",
       "contributors": "radsi",
@@ -136,7 +136,7 @@
       "url": "https://github.com/radsi/Ultrakill-SusKull/releases/download/1.0/SusKull-Plushie-Version.dll"
     },
     {
-      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPSX.png",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPSX.png?raw=true",
       "name": "SusKull (PSX)",
       "description": "Replaces skulls\nwith colored amogus",
       "contributors": "radsi",
