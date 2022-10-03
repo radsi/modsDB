@@ -28,6 +28,15 @@
       "url": "https://gitlab.com/Robieh/ultrauncanny/uploads/fd9a64699b32a14ba74db4156b12568a/ULTRAUNCANNY.dll"
     },
     {
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/PBS.png",
+      "name": "Player Best Save",
+      "description": "Shows your PB's of\neach level next to\nthe level statistics",
+      "contributors": "radsi",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/radsi/Ultrakill-Player-Best-Save/releases/download/1.0/PlayerBestSave.dll"
+    },
+    {
       "thumbnail": "https://ultramods.xyz/images/competitor.png",
       "name": "Cubemap Maker",
       "description": "A mod that lets you\nset a custom wave\nfor The Cyber Grind",
@@ -44,6 +53,15 @@
       "recommended": false,
       "useUMM": true,
       "url": "https://github.com/Temperz87/Ultrakill-Custom-Arms-Proof-Of-Concept/releases/download/v1.3.0/CustomArms.dll"
+    },
+    {
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fakupunch.png",
+      "name": "FakUPunch",
+      "description": "Replaces the punch\nanimation with a\nmiddle finger",
+      "contributors": "radsi",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/radsi/Ultrakill-FakUPunch/releases/download/1.0/FakUPunch.dll"
     },
     {
       "thumbnail": "none",
@@ -89,6 +107,60 @@
       "recommended": false,
       "useUMM": false,
       "url": "https://github.com/distributivgesetz/2Spooky4Me/releases/download/1.2/TooSpookyForMe.dll"
+    },
+    {
+      "thumbnail": "none",
+      "name": "Fresh",
+      "description": "You will die if your\nweapon freshness\nbecome dull",
+      "contributors": "ZedDevStuff",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/ZedDevStuff/Fresh/releases/download/1.0.0/Fresh.dll"
+    },
+    {
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fumoskull.png",
+      "name": "FumoSkulls",
+      "description": "Replaces skulls with\nfumos",
+      "contributors": "The-DoomMan",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/The-DoomMan/FumoSkulls/releases/download/how-do-put-more-than-1-release-on-1-tag-help-i-hate-git/FumoSkull.dll"
+    },
+    {
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPlushie.png",
+      "name": "SusKull (Plushie)",
+      "description": "Replaces skulls\nwith colored amogus",
+      "contributors": "radsi",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/radsi/Ultrakill-SusKull/releases/download/1.0/SusKull-Plushie-Version.dll"
+    },
+    {
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPSX.png",
+      "name": "SusKull (PSX)",
+      "description": "Replaces skulls\nwith colored amogus",
+      "contributors": "radsi",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/radsi/Ultrakill-SusKull/releases/download/1.0/SusKull-PSX-Version.dll"
+    },
+    {
+      "thumbnail": "none",
+      "name": "EasyPZ",
+      "description": "P rank requirements,\nrestart hotkeys, and\nautomatic restarts",
+      "contributors": "Hydraxous",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/Hydraxous/EasyPZ-ULTRAKILL/releases/download/2.0.2/EasyPZ.dll"
+    },
+    {
+      "thumbnail": "none",
+      "name": "BetterWeaponColourMenu",
+      "description": "Improve the custom\ngun colour system",
+      "contributors": "nota8ot",
+      "recommended": false,
+      "useUMM": true,
+      "url": "https://github.com/Hydraxous/EasyPZ-ULTRAKILL/releases/download/2.0.2/EasyPZ.dll"
     }
   ]
 }
