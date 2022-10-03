@@ -82,7 +82,7 @@
       "url": "https://github.com/ZedDevStuff/UKMusicReplacement/releases/download/0.7.0/UKMusicReplacement-v0.7.0.zip"
     },
     {
-      "thumbnail": "none",
+      "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/2s4m.png",
       "name": "2Spooky4Me",
       "description": "Configure seasonal\nevents for ULTRAKILL",
       "contributors": "Heckteck, Distrilul_",
