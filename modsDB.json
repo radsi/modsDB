@@ -7,7 +7,7 @@
       "contributors": "wafflethings",
       "recommended": true,
       "useUMM": true,
-      "url": "https://github.com/wafflethings/ULTRAKILLtweaker/releases/download/V1.3.0/UKt_V1.3.0.zip"
+      "url": "https://github.com/wafflethings/ULTRAKILLtweaker"
     },
     {
       "thumbnail": "https://user-images.githubusercontent.com/8602389/194092032-e4119719-a5c8-4230-886e-c8f141061c57.png",
@@ -16,7 +16,7 @@
       "contributors": "Hydraxous",
       "recommended": true,
       "useUMM": false,
-      "url": "https://github.com/Hydraxous/UltraFunGuns/releases/download/1.1.7-Experimental/UFG-1.1.7-Experimental.zip"
+      "url": "https://github.com/Hydraxous/UltraFunGuns"
     },
     {
       "thumbnail": "none",
@@ -25,7 +25,7 @@
       "contributors": "radsi, nptnk",
       "recommended": false,
       "useUMM": true,
-      "url": "https://github.com/radsi/UltraRandomizer/releases/download/1.4.1/UltraRandomizer.dll"
+      "url": "https://github.com/radsi/UltraRandomizer"
     },
     {
       "thumbnail": "https://ultramods.xyz/images/uuc.png",
@@ -34,7 +34,7 @@
       "contributors": "Robi",
       "recommended": false,
       "useUMM": false,
-      "url": "https://gitlab.com/Robieh/ultrauncanny/uploads/fd9a64699b32a14ba74db4156b12568a/ULTRAUNCANNY.dll"
+      "url": "https://gitlab.com/Robieh/ultrauncanny"
     },
     {
       "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/PBS.png?raw=true",
@@ -43,7 +43,7 @@
       "contributors": "radsi",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/radsi/Ultrakill-Player-Best-Save/releases/download/1.0/PlayerBestSave.dll"
+      "url": "https://github.com/radsi/Ultrakill-Player-Best-Save"
     },
     {
       "thumbnail": "https://ultramods.xyz/images/competitor.png",
@@ -52,7 +52,7 @@
       "contributors": "BobbyShmurner",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/BobbyShmurner/CubemapMaker/releases/download/v1.0.3/CubemapMaker.dll"
+      "url": "https://github.com/BobbyShmurner/CubemapMaker"
     },
     {
       "thumbnail": "https://ultramods.xyz/images/customarms.gif",
@@ -61,7 +61,7 @@
       "contributors": "Temperz87",
       "recommended": false,
       "useUMM": true,
-      "url": "https://github.com/Temperz87/Ultrakill-Custom-Arms-Proof-Of-Concept/releases/download/v1.3.0/CustomArms.dll"
+      "url": "https://github.com/Temperz87/Ultrakill-Custom-Arms-Proof-Of-Concept"
     },
     {
       "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fakupunch.png?raw=true",
@@ -70,7 +70,7 @@
       "contributors": "radsi",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/radsi/Ultrakill-FakUPunch/releases/download/1.0/FakUPunch.dll"
+      "url": "https://github.com/radsi/Ultrakill-FakUPunch"
     },
     {
       "thumbnail": "none",
@@ -79,7 +79,7 @@
       "contributors": "The-DoomMan",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/The-DoomMan/ULTRASKINS/releases/download/release/ULTRASKINS.zip"
+      "url": "https://github.com/The-DoomMan/ULTRASKINS"
     },
     {
       "thumbnail": "none",
@@ -88,7 +88,7 @@
       "contributors": "maranarasauce",
       "recommended": false,
       "useUMM": true,
-      "url": "https://github.com/maranarasauce/QuickFist/releases/download/1.0.2/QuickFistUMM.dll"
+      "url": "https://github.com/maranarasauce/QuickFist"
     },
     {
       "thumbnail": "none",
@@ -97,7 +97,7 @@
       "contributors": "maranarasauce",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/maranarasauce/QuickFist/releases/download/1.0.2/QuickFist.dll"
+      "url": "https://github.com/maranarasauce/QuickFist"
     },
     {
       "thumbnail": "none",
@@ -106,7 +106,7 @@
       "contributors": "ZedDevStuff",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/ZedDevStuff/UKMusicReplacement/releases/download/0.7.0/UKMusicReplacement-v0.7.0.zip"
+      "url": "https://github.com/ZedDevStuff/UKMusicReplacement"
     },
     {
       "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/2s4m.png?raw=true",
@@ -115,7 +115,7 @@
       "contributors": "Heckteck, Distrilul_",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/distributivgesetz/2Spooky4Me/releases/download/1.2/TooSpookyForMe.dll"
+      "url": "https://github.com/distributivgesetz/2Spooky4Me"
     },
     {
       "thumbnail": "none",
@@ -124,7 +124,7 @@
       "contributors": "ZedDevStuff",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/ZedDevStuff/Fresh/releases/download/1.0.0/Fresh.dll"
+      "url": "https://github.com/ZedDevStuff/Fresh"
     },
     {
       "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/fumoskull.png?raw=true",
@@ -133,7 +133,7 @@
       "contributors": "The-DoomMan",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/The-DoomMan/FumoSkulls/releases/download/how-do-put-more-than-1-release-on-1-tag-help-i-hate-git/FumoSkull.dll"
+      "url": "https://github.com/The-DoomMan/FumoSkulls"
     },
     {
       "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPlushie.png?raw=true",
@@ -142,7 +142,7 @@
       "contributors": "radsi",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/radsi/Ultrakill-SusKull/releases/download/1.0/SusKull-Plushie-Version.dll"
+      "url": "https://github.com/radsi/Ultrakill-SusKull"
     },
     {
       "thumbnail": "https://github.com/radsi/modsDB/blob/main/thumbnails/suskullPSX.png?raw=true",
@@ -151,7 +151,7 @@
       "contributors": "radsi",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/radsi/Ultrakill-SusKull/releases/download/1.0/SusKull-PSX-Version.dll"
+      "url": "https://github.com/radsi/Ultrakill-SusKull"
     },
     {
       "thumbnail": "none",
@@ -160,7 +160,7 @@
       "contributors": "Hydraxous",
       "recommended": false,
       "useUMM": false,
-      "url": "https://github.com/Hydraxous/EasyPZ-ULTRAKILL/releases/download/2.0.2/EasyPZ.dll"
+      "url": "https://github.com/Hydraxous/EasyPZ-ULTRAKILL"
     },
     {
       "thumbnail": "none",
@@ -169,7 +169,7 @@
       "contributors": "nota8ot",
       "recommended": false,
       "useUMM": true,
-      "url": "https://github.com/Hydraxous/EasyPZ-ULTRAKILL/releases/download/2.0.2/EasyPZ.dll"
+      "url": "https://github.com/Hydraxous/EasyPZ-ULTRAKILL"
     }
   ]
 }
