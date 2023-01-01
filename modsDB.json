@@ -10,6 +10,33 @@
       "url": "https://github.com/wafflethings/ULTRAKILLtweaker"
     },
     {
+      "thumbnail": "none",
+      "name": "Ultrakill Achievements",
+      "description": "Adds 40+\nachievements to\nUltrakill",
+      "contributors": "Protract-123",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/Protract-123/Ultrakill-Achievements"
+    },
+    {
+      "thumbnail": "none",
+      "name": "UltraAchievement Core",
+      "description": "Plugin made to add\nsupport for simple\ncustom achievements",
+      "contributors": "Protract-123",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/Protract-123/UltraAchievement-Core"
+    },
+    {
+      "thumbnail": "none",
+      "name": "Ammo Mod",
+      "description": "Adds an ammo system",
+      "contributors": "TeamDoodz",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/TeamDoodz/UKAmmoMod"
+    },
+    {
       "thumbnail": "https://ultramods.xyz/images/rs.jpg",
       "name": "RankTitleSwapper",
       "description": "Swaps the sprites\nfor the style ranks",
@@ -26,6 +53,24 @@
       "recommended": true,
       "useUMM": false,
       "url": "https://github.com/ClearwaterUK/UltrakULL"
+    },
+    {
+      "thumbnail": "none",
+      "name": "uk mod hitmarker",
+      "description": "Add a customizeable\nhitmarker",
+      "contributors": "Woodensponge",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/Woodensponge/uk-mod-hitmarker"
+    },
+    {
+      "thumbnail": "none",
+      "name": "UltraRunTracker",
+      "description": "A plugin to track\nand save your past\nULTRAKILL runs",
+      "contributors": "zelzmiy",
+      "recommended": false,
+      "useUMM": false,
+      "url": "https://github.com/zelzmiy/UltraRunTracker"
     },
     {
       "thumbnail": "https://user-images.githubusercontent.com/8602389/194092032-e4119719-a5c8-4230-886e-c8f141061c57.png",
