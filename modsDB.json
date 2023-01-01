@@ -10,9 +10,18 @@
       "url": "https://github.com/wafflethings/ULTRAKILLtweaker"
     },
     {
+      "thumbnail": "https://ultramods.xyz/images/rs.jpg",
+      "name": "RankTitleSwapper",
+      "description": "Swaps the sprites\nfor the style ranks",
+      "contributors": "wafflethings",
+      "recommended": true,
+      "useUMM": true,
+      "url": "https://github.com/wafflethings/RankTitleSwapper"
+    },
+    {
       "thumbnail": "https://ultramods.xyz/images/ultrakull.jpg",
       "name": "Ultrakull",
-      "description": "Translation and\nlocalization into\nvarious languages.",
+      "description": "Translation and\nlocalization into\nvarious languages",
       "contributors": "Clearwater",
       "recommended": true,
       "useUMM": false,
